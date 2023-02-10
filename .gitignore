@@ -1,0 +1,7 @@
+# Virtualenv
+venv/
+
+# PyCharm
+.idea/
+
+# Static files & media
