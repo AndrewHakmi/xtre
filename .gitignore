@@ -4,6 +4,10 @@ venv/
 # PyCharm
 .idea/
 
+# Pycache
+*/__pycache__/
+*.pyc
+
 # Static files & media & migrations
 accounts/migrations/
 contacts/migrations/
