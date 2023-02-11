@@ -10,6 +10,7 @@ contacts/migrations/
 listings/migrations/
 realtors/migrations/
 pages/migrations/
+realestate/static/
 static/
 media/
 screenshots/
