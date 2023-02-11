@@ -4,4 +4,12 @@ venv/
 # PyCharm
 .idea/
 
-# Static files & media
+# Static files & media & migrations
+accounts/migrations/
+contacts/migrations/
+listings/migrations/
+realtors/migrations/
+pages/migrations/
+static/
+media/
+screenshots/
