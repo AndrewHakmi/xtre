@@ -14,7 +14,7 @@ contacts/migrations/
 listings/migrations/
 realtors/migrations/
 pages/migrations/
-realestate/static/
+realestate/local_settings.py
 static/
 media/
 screenshots/
